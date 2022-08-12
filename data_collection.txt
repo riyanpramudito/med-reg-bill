@@ -1,0 +1,10 @@
+  age sex bmi children smoker region
+0  22   1  20        2      0      0
+  age sex bmi children smoker region
+0  22   1  21        2      0      1
+  age sex bmi children smoker region
+0  22   1  20        2      0      0
+  age sex bmi children smoker region
+0  22   1  22        2      0      1
+  age sex bmi children smoker region
+0  22   1  22        2      0      1
